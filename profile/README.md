@@ -7,10 +7,7 @@
 # Volunteers
 Would you like to work as a volunteer for Iceberg Network? If so here are some open positons
 ## Notice: This is a VOLUNTEER POSITION for NO pay. This is also a proxy ran by teenagers. This is to evade School Monitors, and adults probaly wouldn't feel at home here.
-### Proxy Maker
-- Someone who can make a proxy that can evade securly. You can also be hired if you can fix my crappy Ultraviolet Code.
-### Lite Website Designer
-- Someone who can help make a lite version of Skibidi Proxy. 
+ no hiring open rn and probaly ever
 
 <a href="mailto:icebergproxy@usa.com">Ready for the challenge? Click here!</a>
 
